@@ -5,3 +5,6 @@
 
 ## 블로그
 > https://rnokhs.tistory.com/ << click!
+
+## 경력기술서 
+> [Notion](https://www.notion.so/mokhs/aedf9020b5274a4eb57ff653528b4574) << click!
