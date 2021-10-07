@@ -1,12 +1,5 @@
-## mokhs00.github.io
-
-
-## Resume 
-> [Notion](https://www.notion.so/mokhs/aedf9020b5274a4eb57ff653528b4574) << click!
-
-
-## 포트폴리오 
-> [Notion](https://www.notion.so/mokhs/f796be4e5038427f858cbb498eb57761) << click!
-
-## 블로그
-> https://rnokhs.tistory.com/ << click!
+| `Item` | `Link` |
+|---|---|
+|📄`Resume`|[💾](https://www.notion.so/mokhs/aedf9020b5274a4eb57ff653528b4574)|
+|📚`Portfolio`|[💾](https://www.notion.so/mokhs/f796be4e5038427f858cbb498eb57761)|
+|🖋`Blog`|[💾](https://rnokhs.tistory.com/)
